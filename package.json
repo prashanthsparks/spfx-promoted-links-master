@@ -30,6 +30,6 @@
     "build": "gulp bundle",
     "clean": "gulp clean",
     "test": "gulp test",
-    "Devtest": "gulp dev test"
+    "Devtest": "gulp dev test1"
   }
 }
