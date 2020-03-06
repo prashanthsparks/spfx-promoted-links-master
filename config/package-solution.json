@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-promoted-links-client-side-solution",
+    "id": "e113b29a-901e-4784-bf6e-2ad4ef5fb9ca",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-promoted-links.sppkg"
+  }
+}
